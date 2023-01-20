@@ -1,11 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+Projeto-Sistema-Resilia)](https://git.io/typing-svg)
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7E619&width=435&lines=Projeto+SISTEMA+RESILIA!+)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%23ConfiaNoProcesso)](https://git.io/typing-svg)
+
+
+
+</h1>
+
+
 
 ![image](https://user-images.githubusercontent.com/112822398/213485764-14aef76f-184c-437d-a690-f7fdb2a76382.png)
 
 
 
 
-# :exclamation: A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
+# :desktop_computer: A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 # 1 - Existem outras entidades além dessas três?
 R: Sim, será necessário mais entidades  para completar o modelo, além de CURSOS,   ALUNOS e TURMAS, adicionei DISCIPLINAS E PROFESSORES.
