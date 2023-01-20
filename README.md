@@ -1,7 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7E619&width=435&lines=Projeto+SISTEMA+RESILIA!+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=EBE800&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Projeto+SISTEMA+RESILIA!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%23ConfiaNoProcesso)](https://git.io/typing-svg)
 
