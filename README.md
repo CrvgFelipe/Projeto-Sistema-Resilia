@@ -26,6 +26,22 @@ R:  Os principais campos são ID, CPF e NOME.  Os tipos são eles respectivament
 
 # 3 - Como essas entidades são relacionada? 
 
-R:  
 
+
+
+    ALUNOS matricula-se em CURSOS
+
+    CURSOS geram TURMAS
+    
+    TURMAS possuem ALUNOS
+    
+    TURMAS contem PROFESSOR
+    
+    PROFESSORR ensina DISCIPLINAS
+    
+
+
+# EXTRAS
+
+Script com o coódigo na pasta SQLScript. 
 
