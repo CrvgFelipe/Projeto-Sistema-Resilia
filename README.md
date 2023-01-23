@@ -43,5 +43,5 @@ R:  Os principais campos são ID, CPF e NOME.  Os tipos são eles respectivament
 
 # EXTRAS
 
-Script com o coódigo na pasta SQLScript. 
+Script com o código na pasta SQLScript. 
 
