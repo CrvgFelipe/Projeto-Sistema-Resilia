@@ -45,3 +45,7 @@ R:  Os principais campos são ID, CPF e NOME.  Os tipos são eles respectivament
 
 Script com o código na pasta SQLScript. 
 
+Diagrama logico.
+
+![image](https://user-images.githubusercontent.com/112822398/215854786-80bd91d2-a628-4b9c-90ac-9e586b26d462.png)
+
