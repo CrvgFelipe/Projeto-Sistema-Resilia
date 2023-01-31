@@ -1,6 +1,5 @@
 create database resilia;
-
-use resilia; 
+use resilia;
 
 create table alunos (
 id int primary key auto_increment,
@@ -33,6 +32,28 @@ telefone varchar(15),
 endereco varchar(50)
 
 );
+
+create table disciplinas (
+id int primary key auto_increment,
+nome varchar(40),
+descricao varchar(50)
+);
+
+
+ALTER TABLE alunos
+ADD CONSTRAINT id_fk_cursos FOREIGN KEY (id) REFERENCES cursos (id);
+
+ALTER TABLE alunos
+ADD CONSTRAINT id_fk_turmas FOREIGN KEY (id) REFERENCES turmas (id);
+
+ALTER TABLE turmas
+ADD CONSTRAINT id_fk_professor FOREIGN KEY (id) REFERENCES professor (id);
+
+alter table professor
+add constraint id_fk_disciplinas foreign key(id) references disciplinas (id);
+
+
+
 
 
 
